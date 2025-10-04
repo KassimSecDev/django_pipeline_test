@@ -1,3 +1,4 @@
 Django==5.2.7
 playwright==1.55.0
 pytest==8.4.2
+gunicorn==21.2.0
